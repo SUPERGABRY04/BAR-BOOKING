@@ -1,0 +1,17 @@
+Variazione prenotazione:
+INTRODUZIONE: La funzione "Variazione prenotazione" consente agli utenti di modificare o annullare la loro prenotazione esistente.
+
+INPUT: L'utente deve fornire alcune informazioni per identificare la prenotazione che desidera modificare o annullare, come il nome, la data e l'ora della prenotazione.
+
+ELABORAZIONE: Una volta che l'utente ha fornito le informazioni richieste, il sito web cercherà la prenotazione corrispondente nel database. Se la prenotazione viene trovata, l'utente può modificare la data, l'ora o il numero di persone della prenotazione esistente o cancellarla completamente.
+
+OUTPUT: Una volta completata la modifica o l'annullamento della prenotazione, il sito web restituirà un messaggio di conferma all'utente con tutte le informazioni aggiornate sulla prenotazione.
+
+Prenotazione con consegna:
+INTRODUZIONE: La funzione "Prenotazione con consegna" consente agli utenti di ordinare il cibo e le bevande dal bar della scuola per la consegna a domicilio.
+
+INPUT: L'utente deve fornire le informazioni sulle loro scelte di cibo e bevande e l'indirizzo di consegna.
+
+ELABORAZIONE: Una volta che l'utente ha fornito le informazioni richieste, il sito web elaborerà l'ordine e calcolerà il costo totale, includendo il costo della consegna.
+
+OUTPUT: Il sito web restituirà all'utente un riepilogo dell'ordine, comprensivo delle informazioni di consegna e del costo totale. L'utente può quindi confermare l'ordine e procedere al pagamento, oppure annullare l'ordine. In caso di conferma dell'ordine, il sito web restituirà un messaggio di conferma all'utente con le informazioni sull'ordine e la data di consegna prevista.
